@@ -1,0 +1,8 @@
+# =============== #
+# Git Ignore Files for Netbeans Java Derby DB Project
+# =============== #
+
+#**/DATABASE_INFO.java
+#**/DATABASE_INFO.class
+**/private.xml
+**/private.properties
